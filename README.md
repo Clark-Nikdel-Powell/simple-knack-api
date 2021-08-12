@@ -1,4 +1,4 @@
-# Simple Knacl API
+# Simple Knack API
 
 Need to work with Knack. Take this.
 
